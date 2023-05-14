@@ -1,0 +1,35 @@
+/* Write your CSS here */
+/* Write your CSS here */
+.bg-container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/planets-app/planets-bg-img.png');
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+}
+.head {
+  font-size: 25px;
+  color: #05acff;
+  text-align: center;
+}
+.final {
+  text-align: center;
+}
+
+.img {
+  height: 340px;
+  width: 440px;
+  margin: 20px;
+}
+.para {
+  color: #ffffff;
+  font-size: 20px;
+  font-family: 'Roboto';
+  text-align: center;
+}
+.des-para {
+  font-size: 17px;
+  color: #ffffff;
+  text-align: center;
+}
